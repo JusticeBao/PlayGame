@@ -42,9 +42,9 @@ var doller:Character = "#"
 
 let log = "this is a test "
 
-println("log has \(count(log)) characters")
-count(log.utf16)
-
+//println("log has \(count(log)) characters")
+//count(log.utf16)
+println( "Hello, first to test github brunch" )
 
 
 
